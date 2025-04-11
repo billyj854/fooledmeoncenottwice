@@ -1,0 +1,5 @@
+https://android.googlesource.com/kernel/manifest
+mv<kernel_manifest.xml.repo/manifests 
+repo unit-m manidestr
+xml
+repo sync
